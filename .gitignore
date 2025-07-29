@@ -143,3 +143,11 @@ gcloud.json
 **/.sentryclirc
 
 keys.json
+# Supabase
+.branches
+.temp
+
+# dotenvx
+.env.keys
+.env.local
+.env.*.local
